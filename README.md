@@ -6,7 +6,7 @@ Group Project work
 * Kojo Amoako 01243202B
 * Mohammed Abubakar - 01242229B
 * Duodu Marvin Kontoh 01242945B
-*  
+   
 ## ABOUT PROJECT
 
 This project is a basic calculator web application built using the Flask framework in Python. It provides a simple web interface where users can input two numbers, select an arithmetic operation (Addition, Subtraction, Multiplication, or Division), and get the result displayed on the same page.
