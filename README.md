@@ -1,12 +1,12 @@
 # Web-Application-Assignment
 Group Project work
 ## Group Members
-*** Pwabasia Benjamin Akwo 01244281B
+* Pwabasia Benjamin Akwo 01244281B
 * Mbiah Amos Adu 01241847B
 * Kojo Amoako 01243202B
 * Mohammed Abubakar - 01242229B
-* Duodu Marvin Kontoh 01242945B**
-* 
+* Duodu Marvin Kontoh 01242945B
+*  
 ## ABOUT PROJECT
 
 This project is a basic calculator web application built using the Flask framework in Python. It provides a simple web interface where users can input two numbers, select an arithmetic operation (Addition, Subtraction, Multiplication, or Division), and get the result displayed on the same page.
@@ -21,27 +21,27 @@ This project is a basic calculator web application built using the Flask framewo
 
 * To practice Python web development concepts.
 
-✅ Backend Logic (in Python)
+### Backend Logic (in Python)
 
-Handles form submission (POST method).
+*Handles form submission (POST method).
 
-Performs operations in Python:
+*Performs operations in Python:
 
-Addition
+*Addition
 
-Subtraction
+*Subtraction
 
-Multiplication
+*Multiplication
 
-Division (with division by zero check)
+*Division (with division by zero check)
 
-✅ Error Handling
+### Error Handling
 
 Displays "Error: Division by zero" if denominator is 0.
 
 Displays "Invalid input" for incorrect form inputs.
 
-6. Workflow
+### Workflow
 
 User opens the application in a browser (http://127.0.0.1:5000).
 
@@ -53,7 +53,7 @@ The result is displayed on the same page.
 
 If input is invalid or division by zero occurs, an error message is shown.
 
-7. Example Usage
+### Example Usage
 
 Input: 12 ÷ 4
 
@@ -66,6 +66,16 @@ Output: Result: 5.0
 Input: 10 ÷ 0
 
 Output: Error: Division by zero
+
+### Strengths of the Project
+
+*Simple and easy-to-use calculator.
+
+*Fully implemented in Python + Flask.
+
+*Demonstrates form handling and dynamic HTML rendering.
+
+*Includes error handling for robustness.
 
 
 
