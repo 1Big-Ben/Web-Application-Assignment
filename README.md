@@ -1,11 +1,11 @@
-# Web-Application-Assignment
-Group Project work
+## Web-Application-Assignment
+Group Project Work (KODES)
 ## Group Members
-* Pwabasia Benjamin Akwo 01244281B
-* Mbiah Amos Adu 01241847B
-* Kojo Amoako 01243202B
+* Pwabasia Benjamin Akwo - 01244281B
+* Mbiah Amos Adu - 01241847B
+* Kojo Amoako - 01243202B
 * Mohammed Abubakar - 01242229B
-* Duodu Marvin Kontoh 01242945B
+* Duodu Marvin Kontoh - 01242945B
    
 ## ABOUT PROJECT
 
